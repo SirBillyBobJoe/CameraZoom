@@ -1,0 +1,10 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="VideoZoomApp.MainWindow"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="VideoZoomApp">
+  <StackPanel>
+    <!-- Your controls go here -->
+    <Image Name="VideoView" />
+  </StackPanel>
+</Window>

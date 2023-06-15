@@ -1,0 +1,15 @@
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\appCS.csproj.AssemblyReference.cache
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\appCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\appCS.AssemblyInfoInputs.cache
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\appCS.AssemblyInfo.cs
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\appCS.csproj.CoreCompileInputs.cache
+C:\Users\tongh\Downloads\AppCS\bin\Debug\net7.0\appCS.exe
+C:\Users\tongh\Downloads\AppCS\bin\Debug\net7.0\appCS.deps.json
+C:\Users\tongh\Downloads\AppCS\bin\Debug\net7.0\appCS.runtimeconfig.json
+C:\Users\tongh\Downloads\AppCS\bin\Debug\net7.0\appCS.dll
+C:\Users\tongh\Downloads\AppCS\bin\Debug\net7.0\appCS.pdb
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\appCS.dll
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\refint\appCS.dll
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\appCS.pdb
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\appCS.genruntimeconfig.cache
+C:\Users\tongh\Downloads\AppCS\obj\Debug\net7.0\ref\appCS.dll

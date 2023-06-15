@@ -1,0 +1,10 @@
+release/main.o
+release/camera.o
+release/imagesettings.o
+release/videosettings.o
+release/metadatadialog.o
+release/qrc_camera.o
+release/moc_camera.o
+release/moc_imagesettings.o
+release/moc_videosettings.o
+release/moc_metadatadialog.o

@@ -1,0 +1,10 @@
+debug/main.o
+debug/camera.o
+debug/imagesettings.o
+debug/videosettings.o
+debug/metadatadialog.o
+debug/qrc_camera.o
+debug/moc_camera.o
+debug/moc_imagesettings.o
+debug/moc_videosettings.o
+debug/moc_metadatadialog.o
